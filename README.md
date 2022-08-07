@@ -7,24 +7,25 @@ Someday I fill this section here with a mini biography of myself :)
 --->
 
 <!-- To do: put an anchor to my website -->
-<p align="center"><img width="60%" src="assets/header.svg"/></p>
+<p align="center"><img width="50%" src="assets/header.svg"/></p>
 <br />
 
 <!-- Hope that my gramatic is right :)  -->
 I'm just a guy from Brazil who loves to write some backend codes with NEXT.js, and related frameworks. :brazil:
 
-<small>I hate frontend 'cause I'm bad at CSS3 and UX/UI, **BUT** I promise someday I'll be good at it. :D</small>
+<!-- Reminder: <small> doesn't work -->
+<sub>I hate frontend 'cause I'm bad at CSS3 and UX/UI, **BUT** I promise someday I'll be good at it. :D</sub>
 
 <!-- **About me** -->
 ## What I use
 
-<code><img height="20" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-<code><img height="20" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-<code><img height="20" alt="prisma" src="assets/prisma-original.svg"></code>
-<code><img height="20" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="20" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="20" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="24" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="24" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+<code><img height="24" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img height="24" alt="prisma" src="assets/prisma-original.svg"></code>
+<code><img height="24" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="24" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="24" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <!-- <code><img height="20" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code> -->
 <!-- <code><img height="20" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code> -->
 
