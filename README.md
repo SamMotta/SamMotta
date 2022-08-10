@@ -14,7 +14,7 @@ Someday I fill this section here with a mini biography of myself :)
 I'm just a guy from Brazil who loves to write some backend codes with NEXT.js, and related frameworks. :brazil:
 
 <!-- Reminder: <small> doesn't work -->
-<sub>I hate frontend 'cause I'm bad at CSS3 and UX/UI, **BUT** I promise someday I'll be good at it. :D</sub>
+<sub>I don't have too much experience with CSS3 and UX/UI, **BUT** I someday I'll be good at it. :D</sub>
 
 <!-- **About me** -->
 ## What I use
