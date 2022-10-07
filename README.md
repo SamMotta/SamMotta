@@ -30,7 +30,7 @@ I'm just a guy from Brazil who loves to write some backend codes with NEXT.js, a
 <!-- <code><img height="20" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code> -->
 
 ## Top Langs
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammotta&layout=compact&hide=&langs_count=8&theme=react&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammotta&layout=compact&langs_count=8&theme=react&hide_border=true" />
 
 
 ## Favorite Repositories
