@@ -35,6 +35,7 @@ I'm just a guy from Brazil who loves to write some backend codes with NEXT.js, a
 
 ## Favorite Repositories
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sammotta&repo=projetosocial&show_owner=true&theme=react&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sammotta&repo=DelphiPlayground&show_owner=true&theme=react&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sammotta&repo=DoomFire-algorithm&show_owner=true&theme=react&hide_border=true" />
 
 
