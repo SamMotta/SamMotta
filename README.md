@@ -30,14 +30,26 @@ I'm just a guy from Brazil who loves to write some backend codes with NEXT.js, a
 <!-- <code><img height="20" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code> -->
 
 ## Top Langs
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammotta&layout=compact&langs_count=8&theme=react&hide_border=true" />
+
+[![SamMotta's GitHub toplangs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sammotta&layout=compact&langs_count=8&theme=algolia&hide_border=true)](https://github.com/SamMotta/SamMotta#gh-dark-mode-only)
+
+[![SamMotta's GitHub toplangs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=sammotta&layout=compact&langs_count=8&theme=buefy&hide_border=true#gh-light-mode-only)](https://github.com/SamMotta/SamMotta#gh-light-mode-only)
 
 
 ## Favorite Repositories
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sammotta&repo=projetosocial&show_owner=true&theme=react&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sammotta&repo=DelphiPlayground&show_owner=true&theme=react&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sammotta&repo=DoomFire-algorithm&show_owner=true&theme=react&hide_border=true" />
+[![SamMotta's GitHub extrapin-projetosocial-Dark](https://github-readme-stats.vercel.app/api/pin/?username=sammotta&repo=projetosocial&show_owner=true&theme=algolia&hide_border=true#gh-dark-mode-only)](https://github.com/SamMotta/ProjetoSocial#gh-dark-mode-only)
 
+[![SamMotta's GitHub extrapin-projetosocial-Light](https://github-readme-stats.vercel.app/api/pin/?username=sammotta&repo=projetosocial&show_owner=true&theme=buefy&hide_border=true#gh-light-mode-only)](https://github.com/SamMotta/ProjetoSocial#gh-light-mode-only)
+
+[![SamMotta's GitHub extrapin-DelphiPlayground-Dark](https://github-readme-stats.vercel.app/api/pin/?username=sammotta&repo=DelphiPlayground&show_owner=true&theme=algolia&hide_border=true#gh-dark-mode-only)](https://github.com/SamMotta/DelphiPlayground#gh-dark-mode-only)
+
+[![SamMotta's GitHub extrapin-DelphiPlayground-Light](https://github-readme-stats.vercel.app/api/pin/?username=sammotta&repo=DelphiPlayground&show_owner=true&theme=buefy&hide_border=true#gh-light-mode-only)](https://github.com/SamMotta/DelphiPlayground#gh-light-mode-only)
+
+[![SamMotta's GitHub extrapin-DoomFire-algorithm-Dark](https://github-readme-stats.vercel.app/api/pin/?username=sammotta&repo=DoomFire-algorithm&show_owner=true&theme=algolia&hide_border=true#gh-dark-mode-only)](https://github.com/SamMotta/DoomFire-algorithm#gh-dark-mode-only)
+
+[![SamMotta's GitHub extrapin-DoomFire-algorithm-Light](https://github-readme-stats.vercel.app/api/pin/?username=sammotta&repo=DoomFire-algorithm&show_owner=true&theme=buefy&hide_border=true#gh-light-mode-only)](https://github.com/SamMotta/DoomFire-algorithm#gh-light-mode-only)
 
 ## Stats Card
-<img src="https://github-readme-stats.vercel.app/api?username=sammotta&show_icons=true&theme=react&hide_border=true&hide=contribs,prs" />
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sammotta&show_icons=true&theme=algolia&hide_border=true&hide=contribs,prs#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sammotta&show_icons=true&theme=buefy&hide_border=true&hide=contribs,prs#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
