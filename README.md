@@ -1,7 +1,3 @@
-<!-- To do: put an anchor to my website -->
-<p align="center"><img width="50%" src="assets/header.svg"/></p>
-<br />
-
 I'm just a guy from Brazil who loves Golang, Dart, Flutter, JS/TS and it's related frameworks. :brazil:
 
 <!-- **About me** -->
@@ -24,10 +20,6 @@ I'm just a guy from Brazil who loves Golang, Dart, Flutter, JS/TS and it's relat
 [![SamMotta's GitHub toplangs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=sammotta&layout=compact&langs_count=8&theme=buefy&hide_border=true#gh-light-mode-only)](https://github.com/SamMotta/SamMotta#gh-light-mode-only)
 
 ## Favorite Repositories
-
-[![SamMotta's GitHub extrapin-projetosocial-Dark](https://github-readme-stats.vercel.app/api/pin/?username=sammotta&repo=projetosocial&show_owner=true&theme=algolia&hide_border=true#gh-dark-mode-only)](https://github.com/SamMotta/ProjetoSocial#gh-dark-mode-only)
-
-[![SamMotta's GitHub extrapin-projetosocial-Light](https://github-readme-stats.vercel.app/api/pin/?username=sammotta&repo=projetosocial&show_owner=true&theme=buefy&hide_border=true#gh-light-mode-only)](https://github.com/SamMotta/ProjetoSocial#gh-light-mode-only)
 
 [![SamMotta's GitHub extrapin-DelphiPlayground-Dark](https://github-readme-stats.vercel.app/api/pin/?username=sammotta&repo=DelphiPlayground&show_owner=true&theme=algolia&hide_border=true#gh-dark-mode-only)](https://github.com/SamMotta/DelphiPlayground#gh-dark-mode-only)
 
